@@ -2,7 +2,7 @@
 
 Dashboard interativo que exibe os valores e compara os planos de assinatura da EA Play, Minecraft e Xbox Game Pass.
 
-!dashboard_xbox/imagem.jpg
+![dashboard_xbox](imagem.jpg)  
 
 📌 Funcionalidades
 Comparação de preços entre os passes EA Play, Minecraft Realms+ e Xbox Game Pass.
